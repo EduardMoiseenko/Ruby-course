@@ -1,3 +1,5 @@
+# 3. Ruby - переменные
+
 name = 'Sasha'
 position = 'Dev'
 
